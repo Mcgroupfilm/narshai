@@ -55,8 +55,8 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Rajappan")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Custom Chats
-FILE_CHANNEL = int(environ.get('FILE_CHANNEL', '-1001616308548'))
-FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 'https://t.me/TGxMULTIBOTDB')
+FILE_CHANNEL = int(environ.get('FILE_CHANNEL', '-1002098013423'))
+FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 'https://t.me/+uuwol1Hh2PA5MmE1')
 
 # This is required for the plugins involving the file system.
 TMP_DOWNLOAD_DIRECTORY = environ.get("TMP_DOWNLOAD_DIRECTORY", "./DOWNLOADS/")
@@ -110,7 +110,7 @@ PUBLIC_FILE_STORE = is_enabled((environ.get('PUBLIC_FILE_STORE', "True")), True)
 
 #redict
 MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/nasrani_update")
-FILE_FORWARD = environ.get('FILE_FORWARD',"https://t.me/+7oxSIxY4X0c2ZGVl")
+FILE_FORWARD = environ.get('FILE_FORWARD',"https://t.me/+uuwol1Hh2PA5MmE1")
 MSG_ALRT = environ.get('MSG_ALRT', '𝑪𝑯𝑬𝑪𝑲 & 𝑻𝑹𝒀 𝑨𝑳𝑳 𝑴𝒀 𝑭𝑬𝑨𝑻𝑼𝑹𝑬𝑺')
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', 0))
 
